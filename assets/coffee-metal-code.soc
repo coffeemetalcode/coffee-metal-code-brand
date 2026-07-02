@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo:color-table xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ooo="http://openoffice.org/2004/office">
+  <!-- coffee | metal | code colors -->
+  <!-- Core Neutrals -->
+  <draw:color draw:name="Bone" draw:color="#F6F1E8"/>
+  <draw:color draw:name="Paper" draw:color="#F3EDE4"/>
+  <draw:color draw:name="Soot" draw:color="#171312"/>
+  <draw:color draw:name="Ink" draw:color="#211B19"/>
+  <draw:color draw:name="Ash" draw:color="#3C3735"/>
+  <!-- Accent Neutrals -->
+  <draw:color draw:name="Steel" draw:color="#AEB5B8"/>
+  <draw:color draw:name="Brass" draw:color="#C69A3A"/>
+  <!-- Surface Scale -->
+  <draw:color draw:name="Surface 0" draw:color="#F6F1E8"/>
+  <draw:color draw:name="Surface 50" draw:color="#F3EDE4"/>
+  <draw:color draw:name="Surface 100" draw:color="#E6DDD0"/>
+  <draw:color draw:name="Surface 200" draw:color="#D8CFC2"/>
+  <draw:color draw:name="Surface 300" draw:color="#C3B7A7"/>
+  <draw:color draw:name="Surface 400" draw:color="#A3927D"/>
+  <draw:color draw:name="Surface 500" draw:color="#7C6D5C"/>
+  <draw:color draw:name="Surface 600" draw:color="#5B4F45"/>
+  <draw:color draw:name="Surface 700" draw:color="#3C3735"/>
+  <draw:color draw:name="Surface 800" draw:color="#2A2422"/>
+  <draw:color draw:name="Surface 900" draw:color="#211B19"/>
+  <draw:color draw:name="Surface 950" draw:color="#171312"/>
+  <!-- Primary — Ember Roast -->
+  <draw:color draw:name="Ember Roast 50" draw:color="#FBEDEA"/>
+  <draw:color draw:name="Ember Roast 100" draw:color="#F6D5CE"/>
+  <draw:color draw:name="Ember Roast 200" draw:color="#F0B3A8"/>
+  <draw:color draw:name="Ember Roast 300" draw:color="#E88673"/>
+  <draw:color draw:name="Ember Roast 400" draw:color="#D96F5D"/>
+  <draw:color draw:name="Ember Roast 500" draw:color="#D16450"/>
+  <draw:color draw:name="Ember Roast 600" draw:color="#B64333"/>
+  <draw:color draw:name="Ember Roast 700" draw:color="#9B3024"/>
+  <draw:color draw:name="Ember Roast 800" draw:color="#7A241C"/>
+  <draw:color draw:name="Ember Roast 900" draw:color="#5f1814"/>
+  <draw:color draw:name="Ember Roast 950" draw:color="#43100D"/>
+  <!-- Secondary — Oxide Signal -->
+  <draw:color draw:name="Oxide Signal 50" draw:color="#EEF5F6"/>
+  <draw:color draw:name="Oxide Signal 100" draw:color="#DCEBED"/>
+  <draw:color draw:name="Oxide Signal 200" draw:color="#B4D2D4"/>
+  <draw:color draw:name="Oxide Signal 300" draw:color="#93BDC1"/>
+  <draw:color draw:name="Oxide Signal 400" draw:color="#6CA8AE"/>
+  <draw:color draw:name="Oxide Signal 500" draw:color="#4C8B93"/>
+  <draw:color draw:name="Oxide Signal 600" draw:color="#2A6A73"/>
+  <draw:color draw:name="Oxide Signal 700" draw:color="#1F4C52"/>
+  <draw:color draw:name="Oxide Signal 800" draw:color="#17373B"/>
+  <draw:color draw:name="Oxide Signal 900" draw:color="#10282C"/>
+  <draw:color draw:name="Oxide Signal 950" draw:color="#0A1B1E"/>
+  <!-- Accent — Steel Scale -->
+  <draw:color draw:name="Steel 50" draw:color="#F1F4F5"/>
+  <draw:color draw:name="Steel 100" draw:color="#E1E6E8"/>
+  <draw:color draw:name="Steel 200" draw:color="#D0D7DA"/>
+  <draw:color draw:name="Steel 300" draw:color="#C1C9CC"/>
+  <draw:color draw:name="Steel 400" draw:color="#B8C0C3"/>
+  <draw:color draw:name="Steel 500" draw:color="#AEB5B8"/>
+  <draw:color draw:name="Steel 600" draw:color="#91989B"/>
+  <draw:color draw:name="Steel 700" draw:color="#757D80"/>
+  <draw:color draw:name="Steel 800" draw:color="#5A6164"/>
+  <draw:color draw:name="Steel 900" draw:color="#41484B"/>
+  <draw:color draw:name="Steel 950" draw:color="#2A3033"/>
+  <!-- Accent — Brass Scale -->
+  <draw:color draw:name="Brass 50" draw:color="#FBF6EA"/>
+  <draw:color draw:name="Brass 100" draw:color="#F3E6C4"/>
+  <draw:color draw:name="Brass 200" draw:color="#E7D7B6"/>
+  <draw:color draw:name="Brass 300" draw:color="#DCC485"/>
+  <draw:color draw:name="Brass 400" draw:color="#D1B16B"/>
+  <draw:color draw:name="Brass 500" draw:color="#C69A3A"/>
+  <draw:color draw:name="Brass 600" draw:color="#A87F2A"/>
+  <draw:color draw:name="Brass 700" draw:color="#8F6B32"/>
+  <draw:color draw:name="Brass 800" draw:color="#725328"/>
+  <draw:color draw:name="Brass 900" draw:color="#59401F"/>
+  <draw:color draw:name="Brass 950" draw:color="#3E2B13"/>
+</ooo:color-table>

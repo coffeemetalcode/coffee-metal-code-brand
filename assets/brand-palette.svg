@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="816"
+   height="1120"
+   viewBox="0 0 816 1120"
+   version="1.1"
+   id="svg71"
+   sodipodi:docname="brand-palette.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview71"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.6629684"
+     inkscape:cx="338.25057"
+     inkscape:cy="243.23974"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg71" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .label-title { font-family: sans-serif; font-size: 24px; font-weight: bold; fill: #171312; }
+      .label-name { font-family: sans-serif; font-size: 14px; font-weight: bold; fill: #171312; }
+      .label-hex { font-family: monospace; font-size: 12px; fill: #171312; }
+      .label-use { font-family: sans-serif; font-size: 11px; fill: #3C3735; }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect
+     width="816"
+     height="1120"
+     fill="#FFFFFF"
+     id="rect1" />
+  <!-- Title -->
+  <text
+     x="40"
+     y="50"
+     class="label-title"
+     id="text1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Punktype;-inkscape-font-specification:Punktype"
+   id="tspan71">coffee | metal | code</tspan> — Color Palette</text>
+  <!-- Core Neutrals -->
+  <g
+     id="core-neutrals"
+     transform="translate(40, 80)">
+    <text
+       x="0"
+       y="0"
+       class="label-title"
+       style="font-size: 18px;"
+       id="text2">Core Neutrals</text>
+    <!-- Bone -->
+    <g
+       transform="translate(0, 20)"
+       id="g5">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#F6F1E8"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect2" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text3">Bone</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text4">#F6F1E8</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text5">creamy white, main light background</text>
+    </g>
+    <!-- Paper -->
+    <g
+       transform="translate(0, 90)"
+       id="g8">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#F3EDE4"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect5" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text6">Paper</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text7">#F3EDE4</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text8">light surface/cards</text>
+    </g>
+    <!-- Soot -->
+    <g
+       transform="translate(0, 160)"
+       id="g11">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#171312"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect8" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text9">Soot</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text10">#171312</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text11">main dark background / dark text</text>
+    </g>
+    <!-- Ink -->
+    <g
+       transform="translate(0, 230)"
+       id="g14">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+        fill="#211B19"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect11" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+        id="text12">Ink</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+        id="text13">#211B19</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+        id="text14">dark surfaces/cards in dark theme</text>
+    </g>
+    <!-- Ash -->
+    <g
+       transform="translate(0, 300)"
+       id="g14a">
+      <rect
+        x="0"
+        y="0"
+        width="90"
+        height="60"
+        fill="#3C3735"
+        stroke="#000000"
+        stroke-width="2"
+        id="rect11a" />
+      <text
+        x="100"
+        y="20"
+        class="label-name"
+        id="text12a">Ash</text>
+      <text
+        x="100"
+        y="35"
+        class="label-hex"
+        id="text13a">#3C3735</text>
+      <text
+        x="100"
+        y="50"
+        class="label-use"
+        id="text14a">muted text / borders on light</text>
+    </g>
+  </g>
+  <!-- Accent Neutrals -->
+  <g
+     id="accent-neutrals"
+     transform="translate(440, 80)">
+    <text
+       x="0"
+       y="0"
+       class="label-title"
+       style="font-size: 18px;"
+       id="text15">Accent Neutrals</text>
+    <!-- Steel -->
+    <g
+       transform="translate(0, 20)"
+       id="g18">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#AEB5B8"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect15" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text16">Steel</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text17">#AEB5B8</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text18">cool neutral highlight on dark</text>
+    </g>
+    <!-- Brass -->
+    <g
+       transform="translate(0, 90)"
+       id="g21">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#C69A3A"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect18" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text19">Brass</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text20">#C69A3A</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text21">sparing accent, never body text on light</text>
+    </g>
+  </g>
+  <!-- Primary Palette - Ember Roast -->
+  <g
+     id="primary-palette"
+     transform="translate(40, 480)">
+    <text
+       x="0"
+       y="0"
+       class="label-title"
+       style="font-size: 18px;"
+       id="text22">Primary — Ember Roast</text>
+    <!-- 900 -->
+    <g
+       transform="translate(0, 20)"
+       id="g25">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#5F1814"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect22" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text23">900</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text24">#5F1814</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text25">deepest brand shade</text>
+    </g>
+    <!-- 800 -->
+    <g
+       transform="translate(0, 90)"
+       id="g28">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#7A241C"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect25" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text26">800</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text27">#7A241C</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text28">headings on light</text>
+    </g>
+    <!-- 700 -->
+    <g
+       transform="translate(0, 160)"
+       id="g31">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#8E2E24"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect28" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text29">700</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text30">#8E2E24</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text31">strong text/accent on light</text>
+    </g>
+    <!-- 600 -->
+    <g
+       transform="translate(0, 230)"
+       id="g34">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#9B3024"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect31" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text32">600</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text33">#9B3024</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text34">main brand red</text>
+    </g>
+    <!-- 500 -->
+    <g
+       transform="translate(0, 300)"
+       id="g37">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#B64333"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect34" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text35">500</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text36">#B64333</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text37">fills, buttons on light</text>
+    </g>
+    <!-- 400 -->
+    <g
+       transform="translate(0, 370)"
+       id="g40">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#D16450"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect37" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text38">400</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text39">#D16450</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text40">buttons / alerts on dark</text>
+    </g>
+    <!-- 300 -->
+    <g
+       transform="translate(0, 440)"
+       id="g43">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#E07A67"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect40" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text41">300</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text42">#E07A67</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text43">hover / highlight on dark</text>
+    </g>
+    <!-- 200 -->
+    <g
+       transform="translate(0, 510)"
+       id="g46">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#F0B3A8"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect43" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text44">200</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text45">#F0B3A8</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text46">soft tint backgrounds</text>
+    </g>
+  </g>
+  <!-- Secondary Palette - Oxide Signal -->
+  <g
+     id="secondary-palette"
+     transform="translate(440, 480)">
+    <text
+       x="0"
+       y="0"
+       class="label-title"
+       style="font-size: 18px;"
+       id="text47">Secondary — Oxide Signal</text>
+    <!-- 900 -->
+    <g
+       transform="translate(0, 20)"
+       id="g50">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#17373B"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect47" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text48">900</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text49">#17373B</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text50">deepest secondary shade</text>
+    </g>
+    <!-- 800 -->
+    <g
+       transform="translate(0, 90)"
+       id="g53">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#1F4C52"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect50" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text51">800</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text52">#1F4C52</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text53">headings / UI accents on light</text>
+    </g>
+    <!-- 700 -->
+    <g
+       transform="translate(0, 160)"
+       id="g56">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#2A6A73"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect53" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text54">700</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text55">#2A6A73</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text56">main secondary on light</text>
+    </g>
+    <!-- 600 -->
+    <g
+       transform="translate(0, 230)"
+       id="g59">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#4C8B93"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect56" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text57">600</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text58">#4C8B93</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text59">medium accent</text>
+    </g>
+    <!-- 500 -->
+    <g
+       transform="translate(0, 300)"
+       id="g62">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#6CA8AE"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect59" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text60">500</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text61">#6CA8AE</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text62">main secondary on dark</text>
+    </g>
+    <!-- 400 -->
+    <g
+       transform="translate(0, 370)"
+       id="g65">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#93BDC1"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect62" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text63">400</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text64">#93BDC1</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text65">highlight on dark</text>
+    </g>
+    <!-- 300 -->
+    <g
+       transform="translate(0, 440)"
+       id="g68">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#B4D2D4"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect65" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text66">300</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text67">#B4D2D4</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text68">soft tint</text>
+    </g>
+    <!-- 200 -->
+    <g
+       transform="translate(0, 510)"
+       id="g71">
+      <rect
+         x="0"
+         y="0"
+         width="90"
+         height="60"
+         fill="#D0E4E5"
+         stroke="#000000"
+         stroke-width="2"
+         id="rect68" />
+      <text
+         x="100"
+         y="20"
+         class="label-name"
+         id="text69">200</text>
+      <text
+         x="100"
+         y="35"
+         class="label-hex"
+         id="text70">#D0E4E5</text>
+      <text
+         x="100"
+         y="50"
+         class="label-use"
+         id="text71">pale backgrounds/dividers</text>
+    </g>
+  </g>
+</svg>
